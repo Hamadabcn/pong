@@ -35,3 +35,31 @@ To run the game, ensure you have the following installed:
    ```bash
    git clone https://github.com/Hamadabcn/pong.git
    cd pong
+
+2. **Install dependencies**
+   ```bash
+   pip install pygame
+
+## **Usage**
+
+3. **Run the Pong game**:
+   ```bash
+   python main.py
+
+## Gameplay
+**Controls**:
+
+Player X (Left Paddle):
+Move Up: W
+Move Down: S
+Player Y (Right Paddle):
+Move Up: Up Arrow
+Move Down: Down Arrow
+Objective:
+
+Score 10 points to win the game. The ball bounces off the top and bottom walls, and players earn points by getting the ball past their opponent's paddle.
+Game Over Condition
+The game ends when either player reaches the maximum score of 10. A sound plays to indicate the end of the game, and the winner is displayed on the screen.
+
+"" License
+This project is licensed under the MIT License.
