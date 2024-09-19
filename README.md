@@ -47,7 +47,8 @@ To run the game, ensure you have the following installed:
    python main.py
 
 ## Gameplay
-**Controls**:
+3. **Controls**:
+   ```bash
 
 Player X (Left Paddle):
 Move Up: W
@@ -61,5 +62,5 @@ Score 10 points to win the game. The ball bounces off the top and bottom walls, 
 Game Over Condition
 The game ends when either player reaches the maximum score of 10. A sound plays to indicate the end of the game, and the winner is displayed on the screen.
 
-"" License
+## License
 This project is licensed under the MIT License.
