@@ -47,8 +47,7 @@ To run the game, ensure you have the following installed:
    python main.py
 
 ## Gameplay
-3. **Controls**:
-   ```bash
+## Controls
 
 Player X (Left Paddle):
 Move Up: W
@@ -56,7 +55,8 @@ Move Down: S
 Player Y (Right Paddle):
 Move Up: Up Arrow
 Move Down: Down Arrow
-Objective:
+
+## Objective:
 
 Score 10 points to win the game. The ball bounces off the top and bottom walls, and players earn points by getting the ball past their opponent's paddle.
 Game Over Condition
