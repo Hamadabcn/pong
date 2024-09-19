@@ -1,6 +1,6 @@
-# **Tetris Game Repository**
+# **Pong Game Repository**
 
-Welcome to the **Tetris Game** repository! This project contains a Python-based implementation of the classic **Tetris** game using the **Pygame** library. The game involves rotating and moving tetrominoes to fill rows and clear lines for points.
+Welcome to the **Pong Game** repository! This project features a classic implementation of the **Pong** game, where two players can compete against each other in an exciting match. The game is built using **Python** and the **Pygame** library, complete with sound effects for an immersive experience.
 
 ## **Table of Contents**
 
@@ -13,21 +13,25 @@ Welcome to the **Tetris Game** repository! This project contains a Python-based 
 
 ## **Overview**
 
-**Tetris** is a puzzle game where the objective is to manipulate tetrominoes (blocks) to create complete horizontal lines, which are then cleared from the board. As the game progresses, the tetrominoes fall faster, increasing the difficulty.
+**Pong** is one of the earliest arcade video games, and this implementation captures the essence of the original game. Players control paddles on either side of the screen to hit a ball back and forth, with the goal of scoring points by getting the ball past the opponent's paddle.
 
-This repository includes:
-1. **Tetris Game**: A fully functioning Tetris game implemented in **Python** using **Pygame**.
+### **Features:**
+- Single or local multiplayer mode
+- Realistic paddle and ball physics
+- Sound effects for bouncing and game over
+- Score tracking and display
 
 ## **Requirements**
 
-To run the game, you will need to have **Python** installed along with the **Pygame** library.
+To run the game, ensure you have the following installed:
 
 - Python 3.x
-- Pygame
+- Pygame library
+- `winsound` for sound effects (Windows only)
 
 ## **Installation**
 
-1. **Clone the repository**:
+1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YourUsername/tetris-game.git
-   cd tetris-game
+   git clone https://github.com/Hamadabcn/pong.git
+   cd pong
