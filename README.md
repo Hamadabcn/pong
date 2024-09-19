@@ -1,6 +1,6 @@
 # Pong Game
 
-Welcome to **Pong by Hamadabcn**! This is a simple Pong game implemented in Python. The game features classic Pong gameplay with paddle controls, scoring, and sound effects.
+Welcome to **Pong**! This is a simple Pong game implemented in Python. The game features classic Pong gameplay with paddle controls, scoring, and sound effects.
 
 ## Table of Contents
 
